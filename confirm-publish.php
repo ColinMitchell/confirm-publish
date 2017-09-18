@@ -3,7 +3,7 @@
 /*
   Plugin Name: Confirm Publish
   Plugin URI:vagra
-  Description: Simple plugin that adds confirm prompts for posts and pages when a page is published or updated.
+  Description: Simple plugin that adds confirm prompts for posts when a page is published or updated.
   Author: Colin Mitchell
   Author URI: http://colinmitchellweb.com/
   Text Domain: confirm-publish
