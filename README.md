@@ -1,3 +1,5 @@
+# Confirm Publish - WP Plugin
+
 Confirm Publish is a simple plugin for WordPress that adds confirm prompts for posts when a page is published or updated.
 
 ## Description
